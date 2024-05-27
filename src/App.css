@@ -1,0 +1,14 @@
+.App-container {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    width: 100%;
+    padding: 15px;
+    box-sizing: border-box;
+}
+select {
+    width: 50%;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 14px;
+}
